@@ -1,0 +1,214 @@
+﻿S_no,Country_name,Income_group
+1,Afghanistan,Low income
+2,Albania,Upper middle income
+3,Algeria,Lower middle income
+4,American Samoa,Upper middle income
+5,Andorra,High income
+6,Angola,Lower middle income
+7,Antigua and Barbuda,High income
+8,Aruba,High income
+9,Australia,High income
+10,Austria,High income
+11,Azerbaijan,Upper middle income
+12,"Bahamas, The",High income
+13,Bahrain,High income
+14,Bangladesh,Lower middle income
+15,Barbados,High income
+16,Belarus,Upper middle income
+17,Belgium,High income
+18,Belize,Upper middle income
+19,Benin,Lower middle income
+20,Bermuda,High income
+21,Bhutan,Lower middle income
+22,Bolivia,Lower middle income
+23,Bosnia and Herzegovina,Upper middle income
+24,Botswana,Upper middle income
+25,Brazil,Upper middle income
+26,British Virgin Islands,High income
+27,Brunei Darussalam,High income
+28,Bulgaria,Upper middle income
+29,Burkina Faso,Low income
+30,Burundi,Low income
+31,Cabo Verde,Lower middle income
+32,Cambodia,Lower middle income
+33,Cameroon,Lower middle income
+34,Canada,High income
+35,Cayman Islands,High income
+36,Central African Republic,Low income
+37,Chad,Low income
+38,Channel Islands,High income
+39,Chile,High income
+40,China,Upper middle income
+41,Colombia,Upper middle income
+42,Comoros,Lower middle income
+43,"Congo, Dem. Rep.",Low income
+44,"Congo, Rep.",Lower middle income
+45,Costa Rica,Upper middle income
+46,Côte d'Ivoire,Lower middle income
+47,Croatia,High income
+48,Cuba,Upper middle income
+49,Curaçao,High income
+50,Cyprus,High income
+51,Czech Republic,High income
+52,Denmark,High income
+53,Djibouti,Lower middle income
+54,Dominica,Upper middle income
+55,Dominican Republic,Upper middle income
+56,Ecuador,Upper middle income
+57,"Egypt, Arab Rep.",Lower middle income
+58,El Salvador,Lower middle income
+59,Equatorial Guinea,Upper middle income
+60,Eritrea,Low income
+61,Estonia,High income
+62,Eswatini,Lower middle income
+63,Ethiopia,Low income
+64,Faroe Islands,High income
+65,Fiji,Upper middle income
+66,Finland,High income
+67,France,High income
+68,French Polynesia,High income
+69,Gabon,Upper middle income
+70,"Gambia, The",Low income
+71,Georgia,Upper middle income
+72,Germany,High income
+73,Ghana,Lower middle income
+74,Gibraltar,High income
+75,Greece,High income
+76,Greenland,High income
+77,Grenada,Upper middle income
+78,Guam,High income
+79,Guatemala,Upper middle income
+80,Guinea,Low income
+81,Guinea-Bissau,Low income
+82,Guyana,Upper middle income
+83,Haiti,Low income
+84,Honduras,Lower middle income
+85,"Hong Kong SAR, China",High income
+86,Hungary,High income
+87,Iceland,High income
+88,India,Lower middle income
+89,Indonesia,Upper middle income
+90,"Iran, Islamic Rep.",Upper middle income
+91,Iraq,Upper middle income
+92,Ireland,High income
+93,Isle of Man,High income
+94,Israel,High income
+95,Italy,High income
+96,Jamaica,Upper middle income
+97,Japan,High income
+98,Jordan,Upper middle income
+99,Kazakhstan,Upper middle income
+100,Kenya,Lower middle income
+101,Kiribati,Lower middle income
+102,"Korea, Dem. People's Rep.",Low income
+103,"Korea, Rep.",High income
+104,Kosovo,Upper middle income
+105,Kuwait,High income
+106,Kyrgyz Republic,Lower middle income
+107,Lao PDR,Lower middle income
+108,Latvia,High income
+109,Lebanon,Upper middle income
+110,Lesotho,Lower middle income
+111,Liberia,Low income
+112,Libya,Upper middle income
+113,Liechtenstein,High income
+114,Lithuania,High income
+115,Luxembourg,High income
+116,"Macao SAR, China",High income
+117,Madagascar,Low income
+118,Malawi,Low income
+119,Malaysia,Upper middle income
+120,Maldives,Upper middle income
+121,Mali,Low income
+122,Malta,High income
+123,Marshall Islands,Upper middle income
+124,Mauritania,Lower middle income
+125,Mauritius,High income
+126,Mexico,Upper middle income
+127,"Micronesia, Fed. Sts.",Lower middle income
+128,Moldova,Lower middle income
+129,Monaco,High income
+130,Mongolia,Lower middle income
+131,Montenegro,Upper middle income
+132,Morocco,Lower middle income
+133,Mozambique,Low income
+134,Myanmar,Lower middle income
+135,Namibia,Upper middle income
+136,Nauru,High income
+137,Nepal,Lower middle income
+138,Netherlands,High income
+139,New Caledonia,High income
+140,New Zealand,High income
+141,Nicaragua,Lower middle income
+142,Niger,Low income
+143,Nigeria,Lower middle income
+144,North Macedonia,Upper middle income
+145,Northern Mariana Islands,High income
+146,Norway,High income
+147,Oman,High income
+148,Pakistan,Lower middle income
+149,Palau,High income
+150,Panama,High income
+151,Papua New Guinea,Lower middle income
+152,Paraguay,Upper middle income
+153,Peru,Upper middle income
+154,Philippines,Lower middle income
+155,Poland,High income
+156,Portugal,High income
+157,Puerto Rico,High income
+158,Qatar,High income
+159,Romania,High income
+160,Russian Federation,Upper middle income
+161,Rwanda,Low income
+162,Samoa,Upper middle income
+163,San Marino,High income
+164,São Tomé and Principe,Lower middle income
+165,Saudi Arabia,High income
+166,Senegal,Lower middle income
+167,Serbia,Upper middle income
+168,Seychelles,High income
+169,Sierra Leone,Low income
+170,Singapore,High income
+171,Sint Maarten (Dutch part),High income
+172,Slovak Republic,High income
+173,Slovenia,High income
+174,Solomon Islands,Lower middle income
+175,Somalia,Low income
+176,South Africa,Upper middle income
+177,South Sudan,Low income
+178,Spain,High income
+179,Sri Lanka,Lower middle income
+180,St. Kitts and Nevis,High income
+181,St. Lucia,Upper middle income
+182,St. Martin (French part),High income
+183,St. Vincent and the Grenadines,Upper middle income
+184,Sudan,Low income
+185,Suriname,Upper middle income
+186,Sweden,High income
+187,Switzerland,High income
+188,Syrian Arab Republic,Low income
+189,"Taiwan, China",High income
+190,Tajikistan,Low income
+191,Tanzania,Lower middle income
+192,Thailand,Upper middle income
+193,Timor-Leste,Lower middle income
+194,Togo,Low income
+195,Tonga,Upper middle income
+196,Trinidad and Tobago,High income
+197,Tunisia,Lower middle income
+198,Turkey,Upper middle income
+199,Turkmenistan,Upper middle income
+200,Turks and Caicos Islands,High income
+201,Tuvalu,Upper middle income
+202,Uganda,Low income
+203,Ukraine,Lower middle income
+204,United Arab Emirates,High income
+205,United Kingdom,High income
+206,United States,High income
+207,Uruguay,High income
+208,Uzbekistan,Lower middle income
+209,Vanuatu,Lower middle income
+210,"Venezuela, RB",Upper middle income
+211,Vietnam,Lower middle income
+212,Virgin Islands (U.S.),High income
+213,West Bank and Gaza,Lower middle income
